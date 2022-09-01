@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 966D-DB7D
+
+ Directory of C:\temp
+
+09/01/2022  09:56 AM    <DIR>          .
+09/01/2022  09:56 AM    <DIR>          ..
+09/01/2022  09:56 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  345,510,871,040 bytes free
